@@ -1,0 +1,22 @@
+#meta-box-client-info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#meta-box-client-info > div {
+    flex: 1;
+    min-width: 30%;
+    padding: 10px;
+}
+
+#meta-box-client-info label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#meta-box-client-info input,
+#meta-box-client-info select {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}

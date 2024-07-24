@@ -1,0 +1,52 @@
+/* Table Styles */
+.wp-block-gcb-client-block table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.wp-block-gcb-client-block th,
+.wp-block-gcb-client-block td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.wp-block-gcb-client-block th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.wp-block-gcb-client-block tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.wp-block-gcb-client-block td a {
+    text-decoration: none;
+}
+
+.wp-block-gcb-client-block tr:hover {
+    background-color: #f1f1f1;
+}
+
+.content-area {
+    padding: 10px 20px;
+}
+
+.entry-title {
+    text-align: center;
+    position: relative;
+    color: #333;
+    padding-bottom: 10px; 
+}
+
+.entry-title::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    width: 5%; 
+    height: 2px; 
+    background-color: #333; 
+}

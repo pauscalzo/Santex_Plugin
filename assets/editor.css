@@ -1,0 +1,21 @@
+.wp-block-gcb-client-block table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f9f9f9;
+}
+
+.wp-block-gcb-client-block th, .wp-block-gcb-client-block td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.wp-block-gcb-client-block th {
+    background-color: #f1f1f1;
+}
+
+.wp-block-gcb-client-block tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
