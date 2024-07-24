@@ -3,7 +3,6 @@
 Plugin de WordPress con bloque Gutenberg para mostrar una lista de clientes con nombre, apellido y Provincia.
 
 
-
 ## Instalación
 
 #### 1) Dirigirse a Plugins > add new plugin. Clickear en "add new plugin"
@@ -49,6 +48,12 @@ Plugin de WordPress con bloque Gutenberg para mostrar una lista de clientes con 
 #### 3) Al visualizar la página se verá una tabla con los datos de los clientes tal cual lo especificado en la configuración del bloque. Cada fila puede ser clickeada y se puede observar el cliente en detalle. Sin embargo puede que no se visualice correctamente según como se hayan configurado los enlaces permanentes. Para eso recomiendo dirigirse a Settings > Permalinks:
 
 ![App Screenshot](https://www.paulascalzo.com/IMG/10.jpg)
+
+#### y seleccionar la siguiente opción:
+
+![App Screenshot](https://www.paulascalzo.com/IMG/11.jpg)
+
+
 
 #### y seleccionar la siguiente opción:
 
